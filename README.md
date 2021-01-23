@@ -1,1 +1,1 @@
-Dice roll simulator with images
+Dice roll simulator with images using Tkinter
